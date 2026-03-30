@@ -9,17 +9,17 @@ export default function Leadership() {
     {
       name: 'Sony Panukma Widianto ST., MSc.',
       role: t('lead_role_1'),
-      image: '/president-director.jpg?v=2',
+      image: '/president-director.jpg',
     },
     {
       name: 'Bashar Jazmati BBA., MBA.',
       role: t('lead_role_2'),
-      image: '/director-investment.jpg?v=2',
+      image: '/director-investment.jpg',
     },
     {
       name: 'Salim Binggoli SM., MM.',
       role: t('lead_role_3'),
-      image: '/commisioner.jpg?v=2',
+      image: '/commisioner.jpg',
     }
   ];
 
